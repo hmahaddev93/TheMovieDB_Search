@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "0459a3f466854e87b7e214c93503d5cc"
+build_time: [1627322899, 460017000]
+inputs:
+  "/Users/zebra/Zla/Dev/Tests/ken_git_space/Movie-Browser/Movie Browser/Movie BrowserTests/MoviewsViewControllerTests.swift": [1627322899, 265924563]

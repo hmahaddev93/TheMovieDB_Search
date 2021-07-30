@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Movie Browser in Movie Browser
+Movie BrowserTests in Movie Browser, depends on:
+Movie Browser in Movie Browser (explicit)

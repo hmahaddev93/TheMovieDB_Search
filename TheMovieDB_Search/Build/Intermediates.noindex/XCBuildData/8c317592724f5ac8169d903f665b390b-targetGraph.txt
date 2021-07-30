@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Movie Browser in TMD_Search
+Movie BrowserTests in TMD_Search, depends on:
+Movie Browser in TMD_Search (explicit)
